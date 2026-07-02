@@ -1,7 +1,7 @@
 
 (() => {
   'use strict';
-  const EMAILJS_PUBLIC_KEY   = 'YZii0wJ0kqvsGfjRz';    
+  const EMAILJS_PUBLIC_KEY   = 'iEk9UF15MzakJwDQ2';    
   const EMAILJS_SERVICE_ID   = 'service_ot0550g';    
   const EMAILJS_TEMPLATE_ID  = 'template_wi2acyo';   
  
